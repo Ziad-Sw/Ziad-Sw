@@ -1,9 +1,20 @@
 <div align="center" width="50">
 
-<h1>Hi there, I'm Ziad Mohamed 👋</h1>
-<h3>Frontend Developer | React & Next.js</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:6366F1&height=180&section=header&text=Ziad%20Mohamed&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%26%20Next.js&descAlignY=58&descSize=18" width="100%"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ziad-Sw&style=flat&color=orange&label=PROFILE+VIEWS)
+<br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="28" alt="Waving Hand"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=440&lines=Building+clean+%26+responsive+UIs;React+%2B+Next.js+Developer;Always+learning+something+new)](https://git.io/typing-svg)
+
+<br>
+
+<img src="./assets/hero-illustration.svg" width="70%" alt="Coding illustration"/>
+
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ziad-Sw&style=flat&color=6366F1&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziad-mohamed-96832a31b/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ziad-Sw)
 
