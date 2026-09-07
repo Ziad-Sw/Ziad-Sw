@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Ziad, a Frontend Developer / Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="13"/> <b>Cairo, Egypt</b>, with a background in UI/UX design. </p>
+<p>Welcome to my page! </br> I'm Ziad, a Frontend Developer / Software Engineer from <img src="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/egypt/flag-3d-round-250.png" width="13"/> <b>Cairo, Egypt</b>, with a background in UI/UX design. </p>
 
 <h3>Things I code with</h3>
 <p>
